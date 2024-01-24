@@ -1,5 +1,5 @@
+//code for servo motor with esp8266
 #include <Servo.h>
-
 Servo myservo;  // create servo object to control a ser
 #define servoPin 2  // Choose the digital pin connected to the servo
 
